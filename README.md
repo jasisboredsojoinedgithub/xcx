@@ -3,7 +3,7 @@
     <img src="https://vkceyugu.cdn.bspapp.com/VKCEYUGU-f184e7c3-1912-41b2-b81f-435d1b37c7b4/71d310a5-ef69-4ca5-88c8-9a3abf8fb8e3.png" alt="腾讯课堂uniCloud视频教程" style="width: 70%;margin-bottom:26px;">
 </a>
 
-注：视频会有滞后问题，入门为主。最新的完整功能请看以下文档
+注：视频会有滞后问题，入门为主。最新的完整功能请看以下文档testcxc
 
 #### 简介
 uni-starter是一个集成了大量商用项目常见功能的，云端一体应用快速开发基本项目模版。
